@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layout1"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/base_action_bar_height"
+    android:orientation="horizontal"
+    android:background="@color/blue_back" xmlns:android="http://schemas.android.com/apk/res/android">
+<!--
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.5"
+        android:gravity="center"
+        android:textSize="8dp"
+        android:text="开学学期"
+        android:textColor="@color/blue_class" />
+-->
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+
+        android:text="课程代码"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+
+        android:text="课程名称"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:id="@+id/text4"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+
+        android:text="学分"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:id="@+id/text5"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+
+        android:text="考核方式"
+        android:textColor="@color/black"
+        />
+    <!--
+    <TextView
+        android:id="@+id/text6"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="8dp"
+        android:text="先修课程"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:id="@+id/text7"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="8dp"
+        android:text="同修课程"
+        android:textColor="@color/red_class"
+        />
+        -->
+    <TextView
+        android:id="@+id/text8"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+
+        android:text="修读学期"
+        android:textColor="@color/red_class"
+        />
+    <TextView
+        android:id="@+id/text9"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+
+        android:text="成绩"
+        android:textColor="@color/red_class"
+        />
+<!--
+    <TextView
+        android:id="@+id/text10"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="8dp"
+        android:text="已得学分"
+        android:textColor="@color/red_class"
+        />
+-->
+</LinearLayout>

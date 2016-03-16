@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+   <color name="background">#ededed</color>
+    <color name="loan_butBackground">#ed6d48</color>
+    <color name="main_color_white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue_back">#1E90FF</color>
+        <color name="loan_title">#ed6d48</color>
+        <color name="white">#FFFFFF</color>
+        <color name="gray">#B0B0B0</color>
+        <color name="contents_text">#ff000000</color>
+        <color name="encode_view">#ffffffff</color> 
+      <color name="primary_text">#212121</color>
+       <color name="secondary_text">#727272</color>
+      <color name="red_class">#ff0000</color>
+      <color name="blue_class">#0000ff</color>
+    <color name="shudu_dark">#6456648f</color>
+    <color name="splash_bg">#F8F6EC</color>
+    <color name="orange">#FF9600</color>
+    <color name="aqua">#02D1AC</color>
+    <color name="yellow">#FFD200</color>
+    <color name="blue">#00C6FF</color>
+    <color name="green">#00E099</color>
+    <color name="pink">#FF3892</color>
+    <color name="cell_ordinary_m">#b215adff</color>
+    <color name="cell_special_m">#b2ff5c0b</color>
+
+
+</resources>

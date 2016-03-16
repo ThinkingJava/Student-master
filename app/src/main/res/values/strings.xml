@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">android_item_Test4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="string1">个人信息</string>
+    <string name="string2">课程表</string>
+    <string name="string3">考试时间</string>
+    <string name="string4">考勤信息</string>
+    <string name="string5">成绩查询</string>
+    <string name="string6">奖惩情况</string>
+    <string name="string7">开设课程</string>
+    <string name="string8">晚归违规</string>
+    <string name="title_activity_login">登陆界面</string>
+    <string name="title_activity_courses">课程表</string>
+    <string name="title_activity_courses_detail">CoursesDetailActivity</string>
+    <string name="title_activity_message">MessageActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_personal">PersonalActivity</string>
+    <string name="title_activity_attend">AttendActivity</string>
+    <string name="title_activity_later">LaterActivity</string>
+    <string name="title_activity_rewardpunish">rewardpunishActivity</string>
+    <string name="title_activity_offercourses">OffercoursesActivity</string>
+</resources>
